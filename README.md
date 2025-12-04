@@ -153,8 +153,8 @@ For questions, issues, or collaboration opportunities, please open an issue on G
 
 ## Author
 
-**Sreenidhi**  
-[Your University/Institution]
+**Sreenidhi Ramani**, **Cherisma Tanduru**  
+Northeastern University, Electrical and Computer Engineering
 
 ## Acknowledgments
 
