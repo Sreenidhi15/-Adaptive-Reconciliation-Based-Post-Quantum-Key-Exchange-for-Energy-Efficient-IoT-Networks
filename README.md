@@ -135,6 +135,8 @@ This generates/appends to `lwe_ns3_results.csv`, containing network simulation m
 
 ## Technical Details
 
+<img width="1150" height="675" alt="LWE key excahnge" src="https://github.com/user-attachments/assets/3bed0db2-c318-4b13-890f-fb53d6c617b7" />
+
 ### LWE Parameters
 
 - **Modulus (q)**: 1024
