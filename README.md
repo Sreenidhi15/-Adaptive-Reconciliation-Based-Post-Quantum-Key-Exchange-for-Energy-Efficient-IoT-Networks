@@ -19,17 +19,13 @@ This implementation combines:
 
 Running `lwe_performance.py` executes 100 independent LWE key exchange tests and reports computation time, memory usage, and energy estimates:
 
-<!-- Add screenshot here: PY.png (or similar) -->
-<img width="451" height="797" alt="PY" src="https://github.com/user-attachments/assets/40012df3-2552-466a-b89e-3d75bf76d2a0" />
-
-![LWE performance benchmark output](A:\PROJECT\PQC\RESULTS)
+<img width="451" height="797" alt="LWE performance benchmark output" src="https://github.com/user-attachments/assets/40012df3-2552-466a-b89e-3d75bf76d2a0" />
 
 ### NS-3 Network Simulation
 
 Running the NS-3 scenario with 5 IoT nodes over point-to-point links shows packet delivery, delay, throughput, and energy results:
 
-<!-- Add screenshot here: ns3.png (or similar) -->
-![NS-3 simulation output](docs/ns3_simulation_output.png)
+<img width="1107" height="895" alt="NS-3 simulation output" src="https://github.com/user-attachments/assets/a341ce0c-3945-44e5-a87c-c8aff5ded46a" />
 
 ## Building and Running
 
