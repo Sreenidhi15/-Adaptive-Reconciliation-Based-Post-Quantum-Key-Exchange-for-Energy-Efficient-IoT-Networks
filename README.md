@@ -5,6 +5,7 @@ This project implements a lightweight, LWE-based (Learning With Errors) post-qua
 The project was developed for research and experimentation purposes in post-quantum cryptography for IoT environments, as part of coursework at Northeastern University (EECE 5155: Wireless Sensor Networks and the IoT).
 
 ## Overview
+
 <img width="893" height="546" alt="stages" src="https://github.com/user-attachments/assets/8838d0d4-e1db-4c06-aee1-6c6205f169f2" />
 
 This implementation combines:
