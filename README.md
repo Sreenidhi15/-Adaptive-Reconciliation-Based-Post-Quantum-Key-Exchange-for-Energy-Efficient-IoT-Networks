@@ -20,6 +20,8 @@ This implementation combines:
 Running `lwe_performance.py` executes 100 independent LWE key exchange tests and reports computation time, memory usage, and energy estimates:
 
 <!-- Add screenshot here: PY.png (or similar) -->
+<img width="451" height="797" alt="PY" src="https://github.com/user-attachments/assets/40012df3-2552-466a-b89e-3d75bf76d2a0" />
+
 ![LWE performance benchmark output](A:\PROJECT\PQC\RESULTS)
 
 ### NS-3 Network Simulation
